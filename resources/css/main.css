@@ -1,0 +1,10 @@
+
+.debug-log-content {
+	height: 4em;
+	overflow: scroll;
+}
+
+.chat-log {
+	height: 30em;
+	overflow: scroll;
+}
